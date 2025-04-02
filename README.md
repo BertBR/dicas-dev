@@ -1,7 +1,3 @@
-Boa! Como você já tem noção de várias dessas tecnologias, vamos focar nas oportunidades reais de mercado e monetização em **Web3, NoCode/LowCode, MicroSaaS e Game Dev**.  
-
----
-
 # **1. Web3 & Smart Contracts – Ainda vale a pena?**  
 ### **Vale a pena aprender?**  
 Sim, mas com algumas ressalvas. O hype de 2021 diminuiu, mas **tecnologias Web3 ainda têm demanda**, principalmente para **contratos inteligentes e infraestrutura blockchain**. Empresas continuam investindo em soluções descentralizadas, mas agora com foco mais realista, longe das promessas exageradas do passado.  
